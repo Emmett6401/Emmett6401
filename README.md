@@ -4,7 +4,8 @@
 
 Here are some ideas to get you started:
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
-
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/:user/:repo/:packageName)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
