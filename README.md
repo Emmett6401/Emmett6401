@@ -5,8 +5,7 @@
 Here are some ideas to get you started:
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/:user/:repo/:packageName)
-![코트](https://github.com/Emmett6401/addbook_robot/assets/46923369/20c7bd62-b44c-49f6-999b-accaf1a68230)
-
+![크기변환 사본 -코트](https://github.com/Emmett6401/addbook_robot/assets/46923369/b59685dc-332b-4a65-82c4-a885e756de7e)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
