@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 특히 BLDC모터에 지존을 찾고 있어 
 - 📫 How to reach me: mrt2020@daum.net @mynostalgia7 
 - ⚡ Fun fact: 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 
 ### 프로젝트 목록
 1. 주소록 https://github.com/Emmett6401/addbook_robot
