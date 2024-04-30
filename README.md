@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 ##프로젝트목록 
 ### 2024년 SW전문가 양성 과정의 프로젝트 목록
   1. 주소록 https://github.com/Emmett6401/addbook_robot
+  2. AI Models : 
+     * 객체탐지의 모든 것 이론 수업과 YOLO이용하기 : https://github.com/Emmett6401/aiModels/blob/main/_%EA%B0%9D%EC%B2%B4_%ED%83%90%EC%A7%80_(Object_Detection)_YOLO_2024.ipynb
+     * 안전모탐지 :
+       https://github.com/Emmett6401/aiModels/blob/main/%EC%95%88%EC%A0%84%EB%AA%A8%ED%83%90%EC%A7%80_20240430_robot.ipynb
+     * 주차공간탐지 :
+       https://github.com/Emmett6401/aiModels/blob/main/PKlot%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
+     * 산불탐지 : https://github.com/Emmett6401/aiModels/blob/main/%EC%82%B0%EB%B6%88%EB%B0%A9%EC%A7%80%EB%AA%A8%EB%8D%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb
+     * 포트홀 :https://github.com/Emmett6401/aiModels/blob/main/potHole%ED%83%90%EC%A7%80.ipynb 
 
 ### 2024년 이전 프로젝트 
   1. bitmeta 주식, 가상화페 자동매매 https://github.com/Emmett6401/bitMeta
