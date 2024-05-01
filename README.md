@@ -21,7 +21,9 @@ Here are some ideas to get you started:
        https://github.com/Emmett6401/aiModels/blob/main/PKlot%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
      * 산불탐지 : https://github.com/Emmett6401/aiModels/blob/main/%EC%82%B0%EB%B6%88%EB%B0%A9%EC%A7%80%EB%AA%A8%EB%8D%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb
      * 포트홀 :https://github.com/Emmett6401/aiModels/blob/main/potHole%ED%83%90%EC%A7%80.ipynb 
-
+### 2024년 특강 자료 
+  1. 당진시_마을 활동가
+     https://github.com/Emmett6401/docs_Dangjin/tree/main
 ### 2024년 이전 프로젝트 
   1. bitmeta 주식, 가상화페 자동매매 https://github.com/Emmett6401/bitMeta
   2. 오디오파일의 Tag 수정 https://github.com/Emmett6401/filename_audiotag
