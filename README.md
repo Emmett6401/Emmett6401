@@ -20,7 +20,9 @@ Here are some ideas to get you started:
      * 주차공간탐지 :
        https://github.com/Emmett6401/aiModels/blob/main/PKlot%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
      * 산불탐지 : https://github.com/Emmett6401/aiModels/blob/main/%EC%82%B0%EB%B6%88%EB%B0%A9%EC%A7%80%EB%AA%A8%EB%8D%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb
-     * 포트홀 :https://github.com/Emmett6401/aiModels/blob/main/potHole%ED%83%90%EC%A7%80.ipynb 
+     * 포트홀 :https://github.com/Emmett6401/aiModels/blob/main/potHole%ED%83%90%EC%A7%80.ipynb
+     * BCCD Detection with Windows PC
+https://github.com/Emmett6401/BCCD-Detect
 ### 2024년 특강 자료 
   1. 당진시_마을 활동가
      https://github.com/Emmett6401/docs_Dangjin/tree/main
