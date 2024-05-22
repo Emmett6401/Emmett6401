@@ -18,6 +18,22 @@ Here are some ideas to get you started:
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
 
 ##프로젝트목록 
+### it융합학부 
+  1. BCCD Detector
+     https://github.com/Emmett6401/BCCD-Detect
+      이것은 혈액내의 혈소판, 적혈구, 백혈구의 갯수를 판별하는 AI 모델입니다.
+
+
+
+
+
+
+
+
+
+
+
+     
 ### 2024년 SW전문가 양성 과정의 프로젝트 목록
   1. 주소록 https://github.com/Emmett6401/addbook_robot
   2. AI Models : 
