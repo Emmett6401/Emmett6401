@@ -1,5 +1,5 @@
 # 황동하를 소개 합니다. 
-![image](https://github.com/Emmett6401/docs_Dangjin/blob/main/coat.png)
+![image](코트.jpg)
 https://emmett6401.github.io/homePageTest/
   1. 안녕하세요 저는 우송대학교에 근무하고 있습니다.        
   2. 아래는 취업을 희망하는 23년 24년 로봇,AI응용 SW 전문가 양성과정의 제자 명단입니다.
