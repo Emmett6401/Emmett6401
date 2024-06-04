@@ -1,38 +1,22 @@
 # 황동하를 소개 합니다. 
 https://emmett6401.github.io/homePageTest/
-  1. 안녕하세요 저는 우송대학교에서 공부 하고 있습니다.
-  2. 지금은 IT융합학부의 수업을 진행 중입니다
+  1. 안녕하세요 저는 우송대학교에 근무하고 있습니다.        
+  2. 아래는 취업을 희망하는 23년 24년 로봇,AI응용 SW 전문가 양성과정의 제자 명단입니다.
+     인사 담당자님 들의 많은 관심 부탁 드립니다.
+  3. 자소서와 이력서는 요청 하시면 제공해 드리겠습니다.
+     회사 고유 양식이 필요 하실때도 별도 요청 해 주시기로 합니다.
 
-     IT 융합학부는 2개의 학과가 있습니다.
-     컴퓨터정보보안학과
-     소프트웨어 보안학과 
-## Hi there 👋
-** 나는 ✨ 로봇만들기와  ✨로봇 망가뜨리기가 취미 입니다. 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ROBOT과 AI를 배우고 있고 
-- 👯 I’m looking to collaborate on 함께 휴머노이드 만들 사람을 
-- 🤔 I’m looking for help with 특히 BLDC모터에 지존을 찾고 있어 
-- 📫 How to reach me: mrt2020@daum.net @mynostalgia7 
-- ⚡ Fun fact: 
+## 2024 로봇, AI응용 SW 전문가 양성 과정  
+  https://github.com/Emmett6401/2024Member
 
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+## 2023 로봇, AI응용 SW 기업맴버쉽 양성 과정
+  https://github.com/Emmett6401/2023Member
 
-##프로젝트목록 
+## 수업 프로젝트 목록 
 ### it융합학부 
   1. BCCD Detector
      https://github.com/Emmett6401/BCCD-Detect
       이것은 혈액내의 혈소판, 적혈구, 백혈구의 갯수를 판별하는 AI 모델입니다.
-
-
-
-
-
-
-
-
-
-
 
      
 ### 2024년 SW전문가 양성 과정의 프로젝트 목록
