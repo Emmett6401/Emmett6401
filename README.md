@@ -51,3 +51,6 @@ https://github.com/Emmett6401/BCCD-Detect
   1. 안면인식  https://github.com/Emmett6401/face_recognition
   2. 사물인식  https://github.com/Emmett6401/yoloUI
 
+### 2024년 IT융합학부 2학기 
+  1. 첫시간 주소록 프로젝트 : https://github.com/Emmett6401/juso206
+
