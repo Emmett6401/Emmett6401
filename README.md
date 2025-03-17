@@ -11,6 +11,8 @@
   
 ## 2025 로봇 응용 SW 전문가 양성 과정 명단(교육중 2025년 8월부터 부분적으로 인턴 가능)
   https://github.com/Emmett6401/2025Robot
+### 프로젝트 
+1. 파이썬 개발 환경 구축하고 주소록 프로그램 만들기 https://github.com/Emmett6401/installation_Python
   
 ## 2024 로봇, AI응용 SW 전문가 양성 과정  
   https://github.com/Emmett6401/2024Member
