@@ -6,7 +6,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
 
   1. 안녕하세요 저는 우송대학교에 근무하고 있습니다.        
-
+## 2025 창업트랙 수업 
+   https://github.com/Emmett6401/2025ChangupClass
+   
 ## 2025 AI 응용 SW 전문가 양성 과정 명단 (교육중 2025년 09월 16일 까지)
   https://github.com/Emmett6401/2025_AI
 
