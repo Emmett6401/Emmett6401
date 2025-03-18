@@ -66,3 +66,8 @@
   2. 사물인식  https://github.com/Emmett6401/yoloUI
 
 
+### 내가 사용하는 언어들은 다음과 같습니다. 
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Java](https://img.shields.io/badge/Java-11-red)
+![Ruby](https://img.shields.io/badge/Ruby-3.0-red)
