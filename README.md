@@ -6,6 +6,21 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
 
   1. 안녕하세요 저는 우송대학교에 근무하고 있습니다.        
+## 생성형 AI 동영상 강의 
+차시 링크 
+1. https://youtu.be/YO-n-tdMW6A
+2. https://youtu.be/UK486WdGzoY
+3. https://youtu.be/jS2QOiUXTWA
+4. https://youtu.be/0wLoCQWkXAQ
+5. https://buly.kr/HHcAw5X
+6. https://youtu.be/BZR3SSEMdVg
+7. https://youtu.be/mKsEAS4PO_g
+8. https://youtu.be/a3aorvZO5mg
+9. https://youtu.be/sXjYdOCiBKQ
+10. https://youtu.be/LQN1oGL79ew
+11. https://youtu.be/M_OSUf9hWTk
+12. https://youtu.be/7RZuxzo-Fno
+    
 ## 2025 창업트랙 수업 
    https://github.com/Emmett6401/2025ChangupClass
    
@@ -64,6 +79,7 @@
 ### ML
   1. 안면인식  https://github.com/Emmett6401/face_recognition
   2. 사물인식  https://github.com/Emmett6401/yoloUI
+
 
 
 ### 내가 사용하는 언어들은 다음과 같습니다. 
