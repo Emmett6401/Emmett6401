@@ -20,7 +20,10 @@
 10. https://youtu.be/LQN1oGL79ew
 11. https://youtu.be/M_OSUf9hWTk
 12. https://youtu.be/7RZuxzo-Fno
-    
+
+## 2025 프로그래밍언어 활용
+   https://github.com/Emmett6401/2025_PHwal
+   
 ## 2025 창업트랙 수업 
    https://github.com/Emmett6401/2025ChangupClass
    
