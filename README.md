@@ -90,3 +90,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Java](https://img.shields.io/badge/Java-11-red)
 ![Ruby](https://img.shields.io/badge/Ruby-3.0-red)
+
+### 처음 만들어 본 게임 
+스네이크게임 https://github.com/Emmett6401/snake_game
+
