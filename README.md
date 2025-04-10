@@ -82,6 +82,8 @@
 ### ML
   1. 안면인식  https://github.com/Emmett6401/face_recognition
   2. 사물인식  https://github.com/Emmett6401/yoloUI
+  3. 웹앱으로 고양이와 강아지를 구분하는 AI프로그램을 만들다  https://emmett6401.github.io/webapp001/
+  
 
 
 
