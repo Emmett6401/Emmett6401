@@ -99,3 +99,7 @@
 ### 처음 만들어 본 게임 
 스네이크게임 https://github.com/Emmett6401/snake_game
 
+### 2025프활 파이썬 클래스 공부하기 
+https://github.com/Emmett6401/mainWinClass
+
+
