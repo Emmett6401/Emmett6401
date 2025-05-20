@@ -102,4 +102,6 @@
 ### 2025프활 파이썬 클래스 공부하기 
 https://github.com/Emmett6401/mainWinClass
 
+### 2025 창업트랙 miniFaceBook Project
+https://github.com/Emmett6401/myFB_20250520
 
