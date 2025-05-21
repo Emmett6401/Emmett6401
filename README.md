@@ -105,3 +105,7 @@ https://github.com/Emmett6401/mainWinClass
 ### 2025 창업트랙 miniFaceBook Project
 https://github.com/Emmett6401/myFB_20250520
 
+### 웹앱 기본
+https://github.com/Emmett6401/webApp
+
+
