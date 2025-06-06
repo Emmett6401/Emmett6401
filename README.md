@@ -1,6 +1,9 @@
 # 황동하를 소개 합니다. 
 ![image](채널A.jpg)
+## M(미)C(친)P(프로토콜) 
+https://github.com/Emmett6401/mcp
 
+https://github.com/modelcontextprotocol/servers 
 ![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
